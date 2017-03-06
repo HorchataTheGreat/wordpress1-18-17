@@ -1,0 +1,7 @@
+[16-Feb-2017 08:38:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/ubuntu/workspace/wp-content/themes/viandlist/functions.php on line 3
+[16-Feb-2017 08:38:07 UTC] PHP Stack trace:
+[16-Feb-2017 08:38:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[16-Feb-2017 08:38:07 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[16-Feb-2017 08:38:07 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[16-Feb-2017 08:38:07 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[16-Feb-2017 08:38:07 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:92

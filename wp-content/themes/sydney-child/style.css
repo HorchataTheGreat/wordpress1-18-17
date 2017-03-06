@@ -1,0 +1,50 @@
+/*
+ Theme Name:   Sydney Child
+ Description:  Sydney Child Theme for Viand
+ Author:       Alecks Horchata
+ Template:             sydney
+*/
+@import url("../sydney/style.css");
+
+
+
+.entry-header{
+    display:none;
+}
+
+.panel-row-style{
+    padding: 0 !important;
+}
+.roll-button{
+    background: #8D0B25;
+    border: 1px solid #8D0B25;
+}
+a {
+    color: #5e5ed9;
+}
+.site-title a {
+    font-size: 40px;
+    color: #5e5ed9;
+}
+.site-description {
+    margin: 0px;
+}
+.site-header {
+    background: hsla(0, 0%, 0%, .5);
+    padding: 5px;
+}
+#mainnav ul li a:hover {
+    color: #5e5ed9 !important;
+}
+.slide-inner .text-slider .maintitle::after {
+    /*display: none;*/
+}
+.panel-grid-cell .widget-title::after {
+    display: none;
+}
+h3.widget-title::after {
+    background-color: #8D0B25 !important;
+}
+.panel-grid-cell .widget-title{
+    margin-bottom: 35px;
+}
